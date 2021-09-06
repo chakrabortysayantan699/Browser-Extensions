@@ -1,0 +1,11 @@
+{
+  "name": "Wiki Search",
+  "description": "Serach topic in wiki",
+  "version": "1.0",
+  "manifest_version": 3,
+  "icons": { "128": "wiki_icon.png" },
+  "action": {
+    "default_action": "wiki_icon.png",
+    "default_popup": "popup.html"
+  }
+}
