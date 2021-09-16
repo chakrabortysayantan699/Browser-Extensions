@@ -20,9 +20,14 @@ it is a simple biggner level Browser Extension .**it helps user to search any to
  1. You can fork(repository and clone)/download those folders in your local machine 
  2. got to extension in your browser and turn on **developer mode**  
  3. then click on **Load unpacked** and select the folder the you have downloaded/colned 
-<img src="./Process/Screenshot(315).png">
+ 
+ <img src="./Process/instruction1.png">
 
  4. Now we are ready to go with  our the first basic browser extension named **wiki search**
+
+<img src="./Process/instruction2.png">
+
+
 
 
 
