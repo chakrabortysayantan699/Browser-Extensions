@@ -1,4 +1,9 @@
 var x = document.getElementById("open_wiki");
+var y = document.getElementById("open_wiki1");
+
+y.addEventListener("click",function(){
+  window.open("https://www.wikipedia.org/");
+})
 
 
 
