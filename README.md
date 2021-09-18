@@ -17,8 +17,8 @@ it is a simple biggner level Browser Extension .**it helps user to search any to
 
 
 **Instruction to load in browser:**
- 1. You can fork(repository and clone)/download those folders in your local machine 
- 2. got to extension in your browser and turn on **developer mode**  
+ 1. You can **fork(repository and clone)/download** those folders in your local machine 
+ 2. Now go to **Extentions** option in your browser and turn on **developer mode**  
  3. then click on **Load unpacked** and select the folder the you have downloaded/colned 
  
  <img src="./Process/instruction1.png">
